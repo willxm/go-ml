@@ -1,6 +1,6 @@
 # go-ml
 
-## classification algorithm
+## Classification Algorithm
 
 - [X] K-Means
 
